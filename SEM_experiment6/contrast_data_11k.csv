@@ -1,0 +1,7 @@
+current,magnification,filename,width,height,roi,mean_gray,std_gray,contrast_std_over_mean
+400,11k,400_11k.png,1024,688,"x=0:1024, y=0:688 (bottom 80px cropped)",113.314944,67.331453,0.594197
+450,11k,450_11k.png,1024,688,"x=0:1024, y=0:688 (bottom 80px cropped)",105.664324,34.928664,0.330563
+500,11k,500_11k.png,1024,688,"x=0:1024, y=0:688 (bottom 80px cropped)",129.589898,23.636734,0.182396
+550,11k,550_11k.png,1024,688,"x=0:1024, y=0:688 (bottom 80px cropped)",134.137719,23.125438,0.172401
+600,11k,600_11k.png,1024,688,"x=0:1024, y=0:688 (bottom 80px cropped)",118.521304,16.221846,0.136869
+650,11k,650_11k.png,1024,688,"x=0:1024, y=0:688 (bottom 80px cropped)",118.877937,28.802377,0.242285
